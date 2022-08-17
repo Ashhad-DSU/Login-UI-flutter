@@ -1,6 +1,6 @@
-import 'package:flutter/material.dart';
 import 'package:loginuicolors/login.dart';
 import 'package:loginuicolors/register.dart';
+import 'package:flutter/material.dart';
 
 void main() {
   runApp(MaterialApp(
